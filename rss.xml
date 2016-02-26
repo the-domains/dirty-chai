@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dirty Chai]]></title>
         <description><![CDATA[Dirty Chai]]></description>
-        <link>http://dirtychaifilms.com/</link>
+        <link>https://thegrid.ai/dirty-chai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 20:42:12 GMT</lastBuildDate>
-        <atom:link href="http://dirtychaifilms.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 20:43:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dirty-chai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DIRTY CHAI 2K16]]></title>
+            <description><![CDATA[<article><h1>DIRTY CHAI 2K16</h1><p>directed, shot, edited by Manmeet Singh dirtychaifilms.com contact us at dirtychaifilms@gmail.com</p></article>]]></description>
+            <link>https://vimeo.com/154886967</link>
+            <guid isPermaLink="false">92a8a944-5892-48a0-8256-2cfeac5df27f</guid>
+            <pubDate>Thu, 25 Feb 2016 20:41:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://vimeo.com/154886967</p>]]></description>
-            <link>http://dirtychaifilms.com/de9ce6c5-cb87-44d9-ae18-3ee6ca99403c/index.html</link>
+            <link>https://thegrid.ai/dirty-chai/de9ce6c5-cb87-44d9-ae18-3ee6ca99403c/index.html</link>
             <guid isPermaLink="false">de9ce6c5-cb87-44d9-ae18-3ee6ca99403c</guid>
             <pubDate>Thu, 25 Feb 2016 20:40:51 GMT</pubDate>
         </item>
