@@ -4,7 +4,7 @@
         <description><![CDATA[Dirty Chai]]></description>
         <link>http://dirtychaifilms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 17:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 18:01:48 GMT</lastBuildDate>
         <atom:link href="http://dirtychaifilms.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DIRTY CHAI 2K16]]></title>
@@ -12,13 +12,6 @@
             <link>https://vimeo.com/154886967</link>
             <guid isPermaLink="false">92a8a944-5892-48a0-8256-2cfeac5df27f</guid>
             <pubDate>Thu, 03 Mar 2016 17:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4344fba8-b92f-474d-b796-29a7a0e89304.jpg">]]></description>
-            <link>http://dirtychaifilms.com/61293710-0dbd-4173-afe8-157a9184f4da/index.html</link>
-            <guid isPermaLink="false">61293710-0dbd-4173-afe8-157a9184f4da</guid>
-            <pubDate>Thu, 03 Mar 2016 17:57:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
