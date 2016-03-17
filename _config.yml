@@ -1,6 +1,6 @@
 name: Dirty Chai
 favicon: null
-layout_spectrum: 0.41518
+layout_spectrum: 0
 typography_spectrum: 0.14911
 title: null
 cta:
@@ -23,7 +23,7 @@ color:
     - '#000404'
     - '#546362'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.1875
+  saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
